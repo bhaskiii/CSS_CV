@@ -83,6 +83,10 @@ a:hover{
 	left: 250px;
 	bottom: 300px;
 }
+.profile-img {
+	width: 25%;
+border-radius: 50%;
+}
 .code-img {
 	width: 25%;
 	float: left;
